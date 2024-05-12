@@ -6,8 +6,8 @@ line 6
 
 exploring git gui
 
-verse 21
-verse 22
-verse 23
-verse 24
--------------------------------
+-------add feature verses---------------
+fv 1 
+fv 2 
+fv 3
+fv 4
