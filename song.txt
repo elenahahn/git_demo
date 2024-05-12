@@ -1,16 +1,6 @@
-line 2
-line 3 
-line 4
-line 5
-line 6
-
-exploring git gui
-
--------add feature verses---------------
-fv 1 
-fv 2 
-fv 3
-fv 4
-
--------add feature more verses---------------
-lyrics for NFF merge
+start again 
+------------- coup 1 -------------------
+verse 1
+verse 2
+verse 3
+verse 4
